@@ -1,0 +1,14 @@
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\bin\Debug\net8.0\RowData.exe
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\bin\Debug\net8.0\RowData.deps.json
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\bin\Debug\net8.0\RowData.runtimeconfig.json
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\bin\Debug\net8.0\RowData.dll
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\bin\Debug\net8.0\RowData.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\RowData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\RowData.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\RowData.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\RowData.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\RowData.dll
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\refint\RowData.dll
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\RowData.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\RowData.genruntimeconfig.cache
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RowData\obj\Debug\net8.0\ref\RowData.dll

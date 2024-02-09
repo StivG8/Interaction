@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RowData": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

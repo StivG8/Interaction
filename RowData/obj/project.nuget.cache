@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qHSqSahCDUOXN/w8uxkDnMYKdmZFH+6TaXbX7hfJsqk+aUDvr4oj9ERMelCpEUVbcATnVCNFTv4MhGXE0QPwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AXROR\\Desktop\\DSR\\Projects\\Interaction\\RowData\\RowData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AXROR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\bin\Debug\net8.0\RabbitMQ.deps.json
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\bin\Debug\net8.0\RabbitMQ.dll
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\bin\Debug\net8.0\RabbitMQ.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\RabbitMQ.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\RabbitMQ.dll
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\refint\RabbitMQ.dll
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\RabbitMQ.pdb
+C:\Users\AXROR\Desktop\DSR\Projects\Interaction\RabbitMQ\obj\Debug\net8.0\ref\RabbitMQ.dll
