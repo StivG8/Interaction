@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xNSjJ3ylAVp/adNciMRokBGLSCwSwaidiSGPOFPgLFUgvlCJr81yIE19oEqpl2wBFQEN+0qNhdaT6soxpYDuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AXROR\\Desktop\\DSR\\Projects\\Interaction\\Interaction.Redis\\Interaction.Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AXROR\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\AXROR\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\AXROR\\.nuget\\packages\\stackexchange.redis\\2.7.17\\stackexchange.redis.2.7.17.nupkg.sha512",
+    "C:\\Users\\AXROR\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
